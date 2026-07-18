@@ -1,4 +1,5 @@
 
+// 1st task
 
 // option -1
 
@@ -15,7 +16,8 @@ document.getElementById('statusChange_2ND').addEventListener('click', function()
 })
 
 
-// 2nd work 
+// 2nd task
+
 
 document.getElementById('btn-updated').addEventListener('click',function(){
     const inputFiled=document.getElementById('input-filed');
